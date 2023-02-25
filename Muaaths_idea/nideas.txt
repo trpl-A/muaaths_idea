@@ -1,0 +1,11 @@
+
+use bs4 to scrape websites
+
+have a list of websites that contain similar info (eg. multiple websites that contain loadshedding info)
+
+maybe use an API, or multiple APIs 
+(API for gps, for transport, traffic and obstructions)
+(API for loadshedding)
+(etc...)
+
+

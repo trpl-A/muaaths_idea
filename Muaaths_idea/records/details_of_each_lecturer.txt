@@ -1,0 +1,7 @@
+email: Lect@cput.ac.za
+initials: DS
+name: Ded
+surname: S
+subject(s): math
+subject_code(s): mth1
+

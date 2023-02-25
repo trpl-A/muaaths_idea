@@ -1,0 +1,15 @@
+
+problem:
+
+solution:
+
+what the app does:
+- someone else has to use the lecturer function and bb function
+
+
+features:
+- displays 4 main facts and details about each fact 
+
+other info:
+- sources of info
+    * 
